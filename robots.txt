@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coralwing.com/sitemap.xml
